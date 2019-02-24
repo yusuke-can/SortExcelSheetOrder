@@ -1,0 +1,4 @@
+onlyBuildTargetDirectory: true
+excludeDirctoryPathList:
+ - hoge@example.com
+ - fuga@example.jp

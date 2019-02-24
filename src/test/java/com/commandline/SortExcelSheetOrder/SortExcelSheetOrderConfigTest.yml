@@ -1,0 +1,9 @@
+defaultTargetDirectory: src/test/java/com/commandline/test
+defaultTargetPackage: src/test/java
+classpathFileRelativePath: src/test/java/com/commandline/SortExcelSheetOrder/classpathTest
+sheetNameOrderFileRelativePath: src/test/java/com/commandline/SortExcelSheetOrder/tablesSortedByDependency.txt
+onlyBuildTargetPackage: false
+globFileNamePattern: "**/excel/*-initialize*.{xlsx,xls}"
+excludePackageList:
+ - com/commandline/test/directory01/
+ - com/commandline/test/directory02/
